@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Abhishek! 👋
 
-I'm a developer passionate about building scalable web applications and intuitive mobile experiences. Currently, I'm deep-diving into Data Structures & Algorithms and Machine Learning to build smarter software.
+I'm a developer passionate about building scalable web applications and intuitive mobile experiences.
 
 ### 🛠 Tech Stack & Interests
 
