@@ -13,7 +13,7 @@ game dev is fun
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ksabhishekk&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksabhishekk&layout=compact&theme=radical" alt="Top Languages" />
