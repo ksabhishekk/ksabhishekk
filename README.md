@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Sai Abhishek! 👋
 
-<!--
-**ksabhishekk/ksabhishekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building scalable web applications and intuitive mobile experiences. Currently, I'm deep-diving into Data Structures & Algorithms and Machine Learning to build smarter software.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **MERN Stack:** MongoDB, Express.js, React, Node.js
+* **Mobile:** Flutter & Dart
+* **Currently Learning:** Data Structures & Algorithms (DSA) & Machine Learning
+* **Hobbyist:** Game Development 🎮
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksabhishekk&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksabhishekk&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 What I'm Up To
+- 💻 Solving problems on LeetCode/CodeChef to master **DSA**.
+- 🤖 Building projects to bridge the gap between **ML models** and real-world apps.
+- 🕹️ Experimenting with game mechanics as a **hobbyist game dev**.
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ksabhishekk)
+---
+
+> "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
